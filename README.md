@@ -36,7 +36,7 @@ For this project's challenge we were asked to do additional analysis to complete
 3. Identify the county with the highest turnout.
 
 ## Challenge Results
-The analysis by county show that:
+The analysis by county shows that:
 
 - The following counties registered votes in this election:
     - Jefferson
