@@ -29,7 +29,7 @@ The analysis of the election shows that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
-For this project's challenge we were asked to further analysis to complete the audit. Specifically, we are to examine the number of votes by county.
+For this project's challenge we were asked to do additional analysis to complete the audit. Specifically, we are to examine the number of votes by county.
 
 1. Calculate the voter turnout for each county.
 2. Calculate the percentage of votes for each county out of the total count.
